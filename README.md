@@ -2,27 +2,24 @@ STOK TAKİP UYGULAMASI
 Bu uygulama, ürünlerinizi veritabanında takip etmenizi sağlayan basit bir stok takip sistemidir. Kullanıcı arayüzü Tkinter ile oluşturulmuştur ve SQLite veritabanı kullanarak ürün bilgilerini depolar.
 
 ÖZELLİKLER
-Ürün ekleme, güncelleme ve silme işlemleri.
-Ürünleri listeleme.
-Ürün arama işlevi.
-Veritabanı desteği ile kalıcı veri saklama.
+⭐ Ürün ekleme, güncelleme ve silme işlemleri.
+📋 Ürünleri listeleme.
+🔍 Ürün arama işlevi.
+💾 Veritabanı desteği ile kalıcı veri saklama.
 GEREKSİNİMLER
 Python 3.x
 Tkinter (genellikle Python ile birlikte gelir)
 SQLite3 (genellikle Python ile birlikte gelir)
 KURULUM
 Bu depoyu klonlayın veya indirerek yerel makinenize kaydedin:
-
 bash
 Kodu kopyala
 git clone https://github.com/anilakbay/mern-tutorial.git
 Proje klasörüne gidin:
-
 bash
 Kodu kopyala
 cd mern-tutorial/frontend
 Uygulamayı çalıştırmak için şu komutu kullanın:
-
 bash
 Kodu kopyala
 python stok_takip.py
